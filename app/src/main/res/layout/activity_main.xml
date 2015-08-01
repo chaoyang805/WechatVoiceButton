@@ -24,7 +24,6 @@
             android:background="#ccc" />
 
         <me.chaoyang805.wechatvoicebutton.View.WechatVoiceButton
-            android:minHeight="0dp"
             android:id="@+id/voice_button"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
