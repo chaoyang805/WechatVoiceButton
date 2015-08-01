@@ -3,4 +3,7 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="recorder_button_normal">按住 说话</string>
+    <string name="recorder_button_recording">松开 结束</string>
+    <string name="recorder_button_want_cancel">松开手指，取消发送</string>
 </resources>
